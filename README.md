@@ -23,34 +23,34 @@
 ## 課程文件
 
 #### Python Basics 課程清單
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Class%20Preface.ipynb">Lesson00 Preface 課程前言</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson00%20Preface.ipynb">Lesson00 Preface 課程前言</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Class01%20Variable.ipynb">Lesson01 Variable 變數</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson01%20Variable.ipynb">Lesson01 Variable 變數</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Class02%20Operator.ipynb">Lesson02 Operator 運算子</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson02%20Operator.ipynb">Lesson02 Operator 運算子</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Class03%20Data%20Structure.ipynb">Lesson03 Data Structure 資料結構</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson03%20Data%20Structure.ipynb">Lesson03 Data Structure 資料結構</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Class04%20String.ipynb">Lesson04 String 字串</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson04%20String.ipynb">Lesson04 String 字串</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Class05%20List.ipynb">Lesson05 List 列表</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson05%20List.ipynb">Lesson05 List 列表</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Class06%20Tuple.ipynb">Lesson06 Tuple 元組</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson06%20Tuple.ipynb">Lesson06 Tuple 元組</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Class07%20Range.ipynb">Lesson07 Range 範圍</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson07%20Range.ipynb">Lesson07 Range 範圍</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Class08%20Set.ipynb">Lesson08 Set 集合</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson08%20Set.ipynb">Lesson08 Set 集合</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Class09%20Dictionary.ipynb">Lesson09 Dictionary 字典</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson09%20Dictionary.ipynb">Lesson09 Dictionary 字典</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Class10%20If-else.ipynb">Lesson10 If-else 條件語法</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson10%20If-else.ipynb">Lesson10 If-else 條件語法</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Class11%20While-loop.ipynb">Lesson11 While 迴圈</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson11%20While-loop.ipynb">Lesson11 While 迴圈</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Class12%20For-loop.ipynb">Lesson12 For 迴圈</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson12%20For-loop.ipynb">Lesson12 For 迴圈</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Class13%20Function.ipynb">Lesson13 Function 函式</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson13%20Function.ipynb">Lesson13 Function 函式</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Class14%20Input-output.ipynb">Lesson14 Input/Output 輸入/輸出</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson14%20Input-output.ipynb">Lesson14 Input/Output 輸入/輸出</a>
 
-- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Class15%20Class.ipynb">Lesson15 Class 類別</a>
+- <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson15%20Class.ipynb">Lesson15 Class 類別</a>
