@@ -12,10 +12,10 @@
  - 本系列課程將從<b>基礎 Python</b>的使用，到<b>人工智慧</b>的開發，讀者歡迎追蹤<a href="https://www.facebook.com/AI.Free.Team/">紛絲專頁</a>並加入<a href="https://www.facebook.com/groups/AI.Free.Community/">自由團隊-學習社團</a>。
 
 ## 本課程說明 - Python Basics
-1. 本課程提供<b> Python 初學者 </b>進行基礎語法的學習。(學過其他程式語言 or 無程式語言基礎者皆適用)
-2. 學習本課程不須建置系統環境，僅需要<b>網路連線</b> & <b>Google Chrome瀏覽器</b>即可開始學習。
-3. 課程學習過程中，若發現BUG或任何問題，歡迎與自由團隊詢問！(<a href="https://www.facebook.com/AI.Free.Team/">紛絲專頁</a> or <a href="mailto:ai.free.team@gamil.com">ai.free.team@gamil.com</a>)
-4. 課程作者/貢獻者：
+ - 本課程提供<b> Python 初學者 </b>進行基礎語法的學習。(學過其他程式語言 or 無程式語言基礎者皆適用)
+ - 學習本課程不須建置系統環境，僅需要<b>網路連線</b> & <b>Google Chrome瀏覽器</b>即可開始學習。
+ - 課程學習過程中，若發現BUG或任何問題，歡迎與自由團隊詢問！(<a href="https://www.facebook.com/AI.Free.Team/">紛絲專頁</a> or <a href="mailto:ai.free.team@gamil.com">ai.free.team@gamil.com</a>)
+ - 課程作者/貢獻者：
 <span> - Chen Ken (<a href="https://github.com/chenkenanalytic">Github</a>) </span>
 <span> - Lee Ovien (<a href="https://github.com/1105104230">Github</a>) </span>
 <span> - Chuang Shawn (<a href="https://github.com/1105104205">Github</a>) </span>
