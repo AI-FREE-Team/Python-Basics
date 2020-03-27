@@ -64,4 +64,6 @@
 
 ## License 授權
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/tw/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/tw/88x31.png" /></a><br />本教學課程適用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/tw/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Taiwan License</a> 授權方式。
+ (CC BY-NC-SA 4.0)
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/tw/88x31.png" /></a><br />本教學課程適用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International</a> 授權方式。
