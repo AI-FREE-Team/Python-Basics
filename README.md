@@ -61,3 +61,7 @@
 - <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson14%20Input-output.ipynb">Lesson14 Input/Output 輸入/輸出</a>
 
 - <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson15%20Class.ipynb">Lesson15 Class 類別</a>
+
+## License 作品授權
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>
