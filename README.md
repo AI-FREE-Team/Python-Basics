@@ -69,3 +69,11 @@
 
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/tw/88x31.png" /></a> (CC BY-NC-SA 4.0)<br />本教學課程適用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International</a> 授權方式。
+
+※ 轉載、改作、分享請附上以下內容：
+
+ - 本課程由 AI.FREE Team 原創開發。如有轉載、改作、分享，請註明出處。
+ 
+ - The course is AI.FREE Team original production. If reproduced, modified, or shared, please cite the source.
+ 
+ - (source: https://github.com/AI-FREE-Team/Python-Basics )
