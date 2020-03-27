@@ -4,6 +4,7 @@
 <br><br>
 <center>歡迎大家來到 AI . FREE Team 《Python 從商業分析到人工智慧》的第一堂課，Python基礎教學。 </center>
 <br>
+
 ## 系列課程說明
  - 《Pyhon 從商業分析到人工智慧》系列課程將透過<b>Google colab</b>進行學習。(<a href="https://colab.research.google.com">Google Colab是什麼？</a>)
 
