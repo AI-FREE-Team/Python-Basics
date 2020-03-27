@@ -72,8 +72,8 @@
 
 ※ 轉載、改作、分享請附上以下內容：
 
- - 本課程由 AI.FREE Team 原創開發。如有轉載、改作、分享，請註明出處。
+ - 本課程由 AI . FREE Team 原創開發。如有轉載、改作、分享，請註明出處。
  
- - The course is AI.FREE Team original production. If reproduced, modified, or shared, please cite the source.
+ - The course is AI . FREE Team original production. If reproduced, modified, or shared, please cite the source.
  
  - (source: https://github.com/AI-FREE-Team/Python-Basics )
