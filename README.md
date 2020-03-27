@@ -3,7 +3,7 @@
 <center>Welcome to the course《Python: from business analytics to Artificial Intelligence》by AI . FREE Team.</center>
 <br><br>
 <center>歡迎大家來到 AI . FREE Team 《Python 從商業分析到人工智慧》的第一堂課，Python基礎教學。 </center>
-
+<br>
 ## 系列課程說明
  - 《Pyhon 從商業分析到人工智慧》系列課程將透過<b>Google colab</b>進行學習。(<a href="https://colab.research.google.com">Google Colab是什麼？</a>)
 
@@ -11,7 +11,7 @@
  
  - 本系列課程將從<b>基礎 Python</b>的使用，到<b>人工智慧</b>的開發，讀者歡迎追蹤<a href="https://www.facebook.com/AI.Free.Team/">粉絲專頁</a>並加入<a href="https://www.facebook.com/groups/AI.Free.Community/">自由團隊-學習社團</a>。
 
-
+<br>
 
 ## 本課程說明 - Python Basics
 1. 本課程提供<b> Python 初學者 </b>進行基礎語法的學習。(學過其他程式語言 or 無程式語言基礎者皆適用)
@@ -25,7 +25,7 @@
 <span> - Lee Ovien (<a href="https://github.com/1105104230">Github</a>) </span>
 <span> - Chuang Shawn (<a href="https://github.com/1105104205">Github</a>) </span>
 
-
+<br>
 
 ## 課程文件
 
@@ -62,8 +62,9 @@
 
 - <a href="https://colab.research.google.com/github/AI-FREE-Team/Python-Basics/blob/master/documents/Lesson15%20Class.ipynb">Lesson15 Class 類別</a>
 
+<br>
+
 ## License 授權
 
- (CC BY-NC-SA 4.0)
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/tw/88x31.png" /></a><br />本教學課程適用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International</a> 授權方式。
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/tw/88x31.png" /></a> (CC BY-NC-SA 4.0)<br />本教學課程適用 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International</a> 授權方式。
